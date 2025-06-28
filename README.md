@@ -1,6 +1,6 @@
 # SimpleMinecraftSniper
 
-**Note:** This script is untested, so its functionality is not guaranteed.
+**Note:** I created this script in under 30 minutes and haven’t tested it, so it might not work perfectly. Use with caution!
 
 A simple Minecraft username sniper designed to help get rare usernames.
 
