@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "minecraftsniper"
 version = "0.1.0"
-description = "Simple Minecraft Sniper For Sniping Rare Usernames"
+description = "A simple Minecraft username sniper designed to help get rare usernames."
 authors = ["Pygot"]
 readme = "README.md"
 
